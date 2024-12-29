@@ -1,0 +1,26 @@
+for admin create
+{
+    "password":"Pass@123",
+    "adminroll":"admin",
+    "name":"karan",
+    "address":"sarsiwa",
+    "phoneNo":9999999999,
+    "email":"karan@gmail.com"
+}
+{
+    "password":"Pass@1234",
+    "adminroll":"admin",
+    "name":"karan1",
+    "address":"sarsiwa",
+    "phoneNo":9999999999,
+    "email":"karan7@gmail.com"
+}
+
+for Applicant create
+{
+    "userId":"karan123",
+    "email":"karan@gmail.com",
+    "password":"app123",
+    "mobile":9999999999,
+    "connectionTyp":"LT"
+}
