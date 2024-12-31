@@ -10,10 +10,11 @@ Category
 Mobile No.
 UserId
 Aadhaar Card No
+
 Documents=>{
-Aadhaar CardNo
-Rashan CardNo
-Photo
+AadhaarCardPhoto
+RashanCardPhoto
+applicantPhoto
 }
 Address
 House/plot/premise no.
@@ -24,6 +25,7 @@ District
 Blocks
 Pincode
 termCondition
+status
 
 
 package com.nit.model;
